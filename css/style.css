@@ -1,0 +1,244 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: #ff3edf;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header img{
+    width: 300px;
+    display: flex;
+    align-items: center;
+
+}
+
+header nav{ 
+    list-style-type: none;
+}
+
+header nav ul li{
+    margin:20px;
+    display: inline-block;
+}
+
+header nav ul li a{
+    color:white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;    
+}
+
+.logo-enjoy{ 
+    width: 500px;
+    margin-right: 400px;
+    margin-left: 100px;
+    justify-content: left;
+}
+
+.bikini-1{
+    width: 300px;
+    justify-content: right;
+}
+
+/*NO ME DEJA PONERLO EN EL MEDIO, POR QUE?*/ 
+main div div h2 { 
+    text-align: center;
+}
+
+
+.comprar {
+    display: flex;
+    justify-content: center;
+    background-color: #febef4;
+    text-align: center;
+}
+
+.shop1 {
+    margin-right: 100px;
+}
+
+div div h2 {
+     text-align: center;
+}
+
+.bikini4 {
+    width: 200px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.bikini6 {
+    width: 200px;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #ff3edf;
+}
+
+footer img{
+    justify-content: right;
+    align-items: center;
+    width: 40px;
+    position: relative;
+    left: 650px;
+    top: auto;
+}
+
+.facebook {
+    margin-right: 50px;
+}
+
+.Nombre {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.nosotros {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.mover {
+    text-align: center;
+}
+
+.fabrica {
+    width: 500px;
+}
+
+.paginas {
+    justify-content: right;
+    align-items: center;
+    position: relative;
+    left: 650px;
+    top: auto;
+}
+
+.ig {
+    width: 50px;
+}
+
+.fb{
+    width: 50px;
+}
+
+/* NO ME DEJA PONERLO EN EL MEDIO*/
+.contact{
+    text-align: center;
+}
+.modelos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.biki2 {
+    width: 300px;
+    margin-left: 30px;
+}
+
+.biki3 {
+    width: 300px;
+    margin-left: 30px;
+}
+
+.biki4 {
+    width: 300px;
+    margin-left: 30px;
+}
+
+.biki5 {
+    width: 300px;
+    margin-left: 30px;
+}
+
+.modelos2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.biki7 {
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.biki8 {
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.biki9 {
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.biki10 {
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.titulo-talle {
+    font-size: 2.5rem;
+    color: #ff3edf;
+    text-align: center;
+}
+
+.descrip-talle {
+    font-size: 1.5rem;
+    color: black;
+    text-align: center;
+}
+
+/* NO ME DEJA, PONER LA FOTO EN EL MEDIO, POR QUE? */
+.foto-talle{
+    width: 550px;
+    position: relative;
+    align-items: center;
+}
+
+.com-nos {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.com-conul {
+    color: #febef4;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.com-repon {
+    color: #ff3edf;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ancho{
+    width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: #ff3edf solid;
+    text-align: center;
+    font-size: 4ch;
+}
+
+
+
+.carousel{
+    width: 500px;
+
+}
